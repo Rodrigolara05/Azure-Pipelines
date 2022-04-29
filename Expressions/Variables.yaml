@@ -1,0 +1,5 @@
+# Ejemplos
+variables:
+  variableBoolean: ${{ false }}
+  variableNumber: ${{ -8.5 }}
+  variableString: ${{ 'm a x' }}
